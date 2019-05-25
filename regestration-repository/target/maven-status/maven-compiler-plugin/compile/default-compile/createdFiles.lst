@@ -1,0 +1,4 @@
+com\tunedapps\regestration\repository\RepositoryImpl.class
+com\tunedapps\regestration\repository\StudentsIdGenerator.class
+com\tunedapps\regestration\repository\IdGenerator.class
+com\tunedapps\regestration\repository\Repository.class

@@ -1,0 +1,8 @@
+com\tunedapps\regestration\entities\Gender.class
+com\tunedapps\regestration\entities\Course.class
+com\tunedapps\regestration\entities\Course$CourseBuilder.class
+com\tunedapps\regestration\entities\Student$StudentBuilder.class
+com\tunedapps\regestration\entities\Student.class
+com\tunedapps\regestration\entities\EntityBase.class
+com\tunedapps\regestration\entities\Location$LocationBuilder.class
+com\tunedapps\regestration\entities\Location.class
